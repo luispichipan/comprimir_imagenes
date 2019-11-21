@@ -45,8 +45,8 @@
 		 }
 	}
 </script>
-
 <body>
+
 	<div id="contenedor">
 		<form name="form_subir_imagen" action="upload_imagenes.php" method="post" multipart="" enctype="multipart/form-data">
 			<table>
@@ -59,5 +59,6 @@
 			</table>
 	    </form>
 	</div>
+
 </body>
 </html>

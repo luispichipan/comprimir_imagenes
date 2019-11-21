@@ -5,6 +5,7 @@
 </head>
 <body>
 <?php
+
 echo '<pre>';
 $archivo = $_FILES['imagenes'];
 $reporte_error = "";
